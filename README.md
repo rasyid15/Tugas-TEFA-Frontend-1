@@ -1,13 +1,13 @@
 # Tugas-TEFA-Frontend-1
 
-Home
-![Home](https://user-images.githubusercontent.com/99931023/197391271-5b02ba7b-63c8-4a37-b52e-9f2ccf988655.png)
+### Home
+![Screenshot (722)](https://user-images.githubusercontent.com/99931023/197391709-39b1b722-9ebf-4a34-becf-ef68d9e4b9ad.png)
 
-Video Profile
-![Profile](https://user-images.githubusercontent.com/99931023/197391288-59497a79-b0ce-4849-aee6-41f93ab15a88.png)
+### Video Profile
+![Screenshot (724)](https://user-images.githubusercontent.com/99931023/197391716-d6b2e21d-3c7e-4def-866f-7da086a36143.png)
 
-Our Bio
-![Bio](https://user-images.githubusercontent.com/99931023/197391301-54974c92-79f6-403a-8ace-06d45f786f09.png)
+### Our Bio
+![Screenshot (725)](https://user-images.githubusercontent.com/99931023/197391725-02aad31e-80f3-468a-809b-d4188c23a34f.png)
 
-Member Media Social
-![Member](https://user-images.githubusercontent.com/99931023/197391308-74f8ae35-edc1-42a2-b4aa-10d3288d49de.png)
+### Member Media Social
+![Screenshot (726)](https://user-images.githubusercontent.com/99931023/197391732-f15b8350-5132-4c6a-b921-8464761ad6bd.png)
