@@ -532,10 +532,7 @@ background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/aa.
   }
   
 
-footer {
-  background: #1A1E25;
-    overflow: hidden;
-}
+
 
 /* footer a {
     text-align: center;
@@ -723,7 +720,10 @@ ul {
   max-width: 210px;
 }
 
-
+footer {
+  background: #1A1E25;
+    overflow: hidden;
+}
 
 footer p {
   padding: 40px 0;
