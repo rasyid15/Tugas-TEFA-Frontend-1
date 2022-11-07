@@ -25,5 +25,5 @@ Our Favorite Place
 # Team
 <br>-Muhammad Rasyid Ridho
 <br>-Muhammad Zidane Fajarianto
--Nabila Farahana
--Novita Azka Maghfira
+<br>-Nabila Farahana
+<br>-Novita Azka Maghfira
