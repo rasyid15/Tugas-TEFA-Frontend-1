@@ -22,3 +22,8 @@ Our Detail Bio
 Our Favorite Place
 ![Screenshot (757)](https://user-images.githubusercontent.com/99931023/199124971-a1444eed-5b93-4248-aec5-4f3fbc119e4e.png)
 
+# Team
+-Muhammad Rasyid Ridho
+-Muhammad Zidane Fajarianto
+-Nabila Farahana
+-Novita Azka Maghfira
