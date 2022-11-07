@@ -23,7 +23,7 @@ Our Favorite Place
 ![Screenshot (757)](https://user-images.githubusercontent.com/99931023/199124971-a1444eed-5b93-4248-aec5-4f3fbc119e4e.png)
 
 # Team
-<br>-Muhammad Rasyid Ridho
-<br>-Muhammad Zidane Fajarianto
+<br>-Muhammad Rasyid Ridho @rasyid15
+<br>-Muhammad Zidane Fajarianto @Dannaire
 <br>-Nabila Farahana
 <br>-Novita Azka Maghfira
